@@ -16,5 +16,9 @@ CREATE TABLE productos (
     stock NUMBER(5),
     categoria VARCHAR2(50)
 );
+<<<<<<< HEAD
 hola vro
 >>>>>>> 41ecf21 (actualizacion)
+=======
+hola vrogit ini
+>>>>>>> 1cde7ba (Actu)
